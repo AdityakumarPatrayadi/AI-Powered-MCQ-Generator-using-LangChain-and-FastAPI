@@ -161,11 +161,11 @@ The API will return a JSON object containing the generated quiz.
       "correct": "c"
     }
   }
-}```
+}
 
 ## 📂 Project Structure
 
-```
+
 .
 ├── .github/                # GitHub Actions workflows
 ├── mcqgenerator/           # Main source code package
@@ -178,4 +178,4 @@ The API will return a JSON object containing the generated quiz.
 ├── requirements.txt        # Project dependencies
 ├── setup.py                # Package setup script
 └── test.py                 # Test script for the application
-```
+
